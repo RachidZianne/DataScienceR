@@ -1,9 +1,9 @@
 # R Data Science Tutorials
 - This repo contains a curated list of R tutorials and packages for Data Science, NLP and Machine Learning. This also serves as a reference guide for several common data analysis tasks.
 
-- [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython).
+- [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/RachidZianne/DataScience).
 
-- [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
+- [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/RachidZianne/Machine-Learning-Tutorials/blob/master/README.md).
 
 ## Learning R
 - Online Courses
@@ -26,8 +26,8 @@
 - [R Reference Card: Cheatsheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 - [R bloggers: blog aggregator](http://www.r-bloggers.com/)
 - [R Resources on  GitHub](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
-- [Awesome R resources](https://github.com/ujjwalkarn/awesome-R)
-- [Data Mining with R](https://github.com/ujjwalkarn/Data-Mining-With-R)
+- [Awesome R resources](https://github.com/RachidZianne/awesome-R)
+- [Data Mining with R](https://github.com/RachidZianne/Data-Mining-With-R)
 - [Rob J Hyndman's R Blog](http://robjhyndman.com/hyndsight/r/)
 - [Simple R Tricks and Tools](http://robjhyndman.com/hyndsight/simpler/) [(Video)](https://www.youtube.com/watch?v=Toc__W7L2Qo)
 - [RStudio GitHub Repo](https://github.com/rstudio/)
@@ -114,7 +114,7 @@
 - [**CRAN Task View: Time Series Analysis**](https://cran.r-project.org/web/views/TimeSeries.html)
 
 ## Bayesian Inference
-- [Packages for Bayesian Inference](https://github.com/ujjwalkarn/awesome-R#bayesian)
+- [Packages for Bayesian Inference](https://github.com/RachidZianne/awesome-R#bayesian)
 - [Bayesian Inference in R: Video](https://www.youtube.com/watch?v=fiWIK7ONX3U)
 - [R and Bayesian Statistics](http://www.r-bloggers.com/r-and-bayesian-statistics/)
 
@@ -198,7 +198,7 @@
 - [BROOM](https://github.com/dgrtwo/broom)
 - [**plyr, stringr, reshape2 tutorial**](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555), [CODE](https://github.com/justmarkham/tidy-data)
 - dplyr
-    - [Code Files in this Repo](https://github.com/ujjwalkarn/DataScienceR/tree/master/Intro%20to%20dplyr)
+    - [Code Files in this Repo](https://github.com/RachidZianne/DataScienceR/tree/master/Intro%20to%20dplyr)
     - [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
     - [Do your "data janitor work" like a boss with dplyr](http://www.gettinggeneticsdone.com/2014/08/do-your-data-janitor-work-like-boss.html)
 - ggplot2
@@ -228,5 +228,6 @@
 ## Market Basket Analysis in R
 - [Market Basket Analysis with R](http://www.salemmarafi.com/code/market-basket-analysis-with-r/)
 - [Step by Step explanation of Market Basket](http://dni-institute.in/blogs/market-basket-analysis-step-by-step-approach-using-r/)
-#   D a t a S c i e n c e R  
+#   D a t a S c i e n c e R 
+ 
  
